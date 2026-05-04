@@ -24,7 +24,7 @@ const translations: Record<Language, Record<string, string>> = {
     "nav.leadership": "Leadership",
     "nav.contact": "Contact",
     "nav.resume": "Resume",
-    "nav.downloadResume": "Download Resume",
+    "nav.downloadResume": "Resume",
 
     // Home
     "home.hero.titlePart1": "Creating digital products.",
